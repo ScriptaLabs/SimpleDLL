@@ -1,0 +1,15 @@
+ _    _ _       _               _____  _____ 
+| |  | (_)     | |             |____ |/ __  \
+| |  | |_ _ __ | |_ ___   ___      / /`' / /'
+| |/\| | | '_ \| __/ _ \ / _ \     \ \  / /  
+\  /\  / | | | | || (_) | (_) |.___/ /./ /___
+ \/  \/|_|_| |_|\__\___/ \___/ \____/ \_____/
+                                             
+                                            
+Hello, thanks for installing Wintoo32's SimpleDLL injector on your PC!
+Now you might be wondering how to run this.
+Worry no more! Wintoo32 has prepared a super trooper guide on how to launch this awesome program!
+If you just downloaded the source code, too bad! This guide only says how to launch the .exe
+so if you did install the source code, you're on your own!
+
+For those who didn't just launch the .exe ツ
